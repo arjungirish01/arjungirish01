@@ -1,31 +1,27 @@
 [![MasterHead](https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif)](https://arjungirish.io)  
 # 💫 About Me:
-👋 Hello, fellow innovator of the digital future! 🌐  
+👋 Hey there, digital trailblazer!  
 
-I'm a passionate Computational Engineering student, deeply intrigued by the convergence of **web technologies** and **artificial intelligence**. My coding journey has been an exploration of how cutting-edge tools and algorithms can create meaningful digital experiences that shape our everyday lives.  
+I'm a Master's student in **Artificial Intelligence**, passionately diving deep into the realms of **Large Language Models (LLMs)**, **Vision Transformers**, and **Retrieval-Augmented Generation (RAG)**. My mission? To push the boundaries of what's possible with AI, blending cutting-edge research with real-world applications.  
 
-🚀 **Web Tech Visionary**: With expertise in HTML, CSS, and JavaScript, I specialize in crafting responsive, user-friendly interfaces that combine performance with design elegance. My goal is to bring ideas to life through functional and dynamic web applications.  
+🚀 **AI Explorer**: I thrive on exploring the latest in NLP and computer vision, especially how transformers revolutionize understanding and generating data. Whether it’s building smarter models or integrating powerful AI into systems, I’m all in.  
 
-🤖 **AI Enthusiast**: Harnessing the power of machine learning and AI, I love uncovering patterns in data and building intelligent systems. Whether it’s fine-tuning a neural network or exploring new algorithms, I thrive on tackling complex challenges in this transformative field.  
+🔍 **Research & Innovation**: Driven by curiosity and rigor, I focus on unlocking the potential of LLMs and multimodal AI to solve complex problems and create smarter assistants, agents, and tools.  
 
-⚛️ **React & Beyond**: React is my go-to framework for developing sleek, modular web components. I'm continually evolving my skills to include other modern tools that complement the seamless integration of AI into web platforms.  
+💡 **Hands-On Creator**: Beyond theory, I love getting my hands dirty coding, experimenting, and iterating on AI models and pipelines that make a difference.  
 
-🧠 **Problem-Solver with a Plan**: With a strong foundation in algorithms and data structures, I approach every challenge methodically, optimizing code for efficiency and scalability. From AI model integration to web optimization, problem-solving is my forte.  
+🌱 **Lifelong Learner**: AI evolves fast, and so do I. I’m continuously absorbing new research, frameworks, and ideas to stay on the cutting edge and shape the future of intelligence.  
 
-🌱 **Lifelong Learner**: Technology is ever-changing, and so is my quest for knowledge. I’m passionate about exploring new frameworks, diving into AI research papers, and staying updated with the latest trends in both AI and web development.  
-
-📚 **Sharer of Knowledge**: When I'm not coding, I’m absorbing ideas from tech blogs, online courses, and open-source communities. I believe in the power of collaboration and the endless opportunities it brings.
+🎯 **Vision for Impact**: My goal is to bridge research and application, making AI accessible, powerful, and ethical for everyone.
 
 ---
-
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-girish/)  
 
 # 💻 Tech Stack:  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Transformers](https://img.shields.io/badge/transformers-%23DA007F.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
